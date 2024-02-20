@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 👨‍💻 All of my projects are available at [Jhon21.com](Jhon21.com)
+- 👨‍💻 All of my projects are available at **yohanistadese06@gmail.com**
 
-- 💬 Ask me about **HTML,CSS,Javascript,React Redux and nextJs**
+- 💬 Ask me about **HTML,CSS,Javascript and MERN **
 
 - 📫 How to reach me **yohanistadese06@gmail.com**
 
