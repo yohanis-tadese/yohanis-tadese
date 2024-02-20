@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 👨‍💻 All of my projects are available at **yohanistadese06@gmail.com**
+- 👨‍💻 All of my projects are available at ...
 
 - 💬 Ask me about **HTML,CSS,Javascript and MERN **
 
