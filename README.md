@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yohanis Tadese</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Full-Stack+Developer;I'm+MERN-Stack+Developer;I'm+React+Developer;&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Full-Stack+Developer;I'm+MERN-Stack+Developer;I'm+React+Developer;&center=true&width=500&height=50">
 </p>
 
 - 🤝 I’m currently open to **work oportunity as Frontend web development and Backend web developer.**
