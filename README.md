@@ -25,8 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="">
-    <img src="https://ionicframework.com/img/meta/logo.png" alt="Ionic" width="40" height="40"/> 
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,css" />
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,css" />
         <img src="https://skillicons.dev/icons?i=tailwind,figma,html,nodejs,mysql,mongodb,expressjs" />
 
 
