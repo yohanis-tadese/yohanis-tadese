@@ -22,6 +22,24 @@
 
 </p>
 
+<p align="center">Contact me on:</p>
+
+<p align="center">
+   <a href="https://www.upwork.com/freelancers/~01c69e82e4eb0f99b3">
+     <img 
+        target="_blank"src="https://camo.githubusercontent.com/7cd478b0991a2887b86b80b07f56e6d6c480aab0d41d28a1564d3bd3ebd59422/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5570776f726b26636f6c6f723d323232323232266c6f676f3d5570776f726b266c6f676f436f6c6f723d364644413434266c6162656c3d">
+   </a>
+        <a 
+            href="https://github.com/yohanis-tadese">
+            <img 
+                alt="followers" 
+                title="Follow me on GitHub" 
+                 src="https://img.shields.io/github/followers/yohanis-tadese?color=0794C9&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
+              />
+        </a>
+      
+  </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="">
