@@ -15,7 +15,8 @@
 - 💬 Ask me about **HTML,CSS,Javascript and MERN **
 
 - 📫 May be see my portfolio **https://yohanis.netlify.app/**
-- For Linkedin  **https://www.linkedin.com/in/yohanis-tadese-0368a8318/**
+  
+- 📫 For Linkedin  **https://www.linkedin.com/in/yohanis-tadese-0368a8318/**
   
 - 📫 How to reach me **yohanistadese06@gmail.com**
 
