@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Full-Stack+Developer;I'm+Frontend+Developer;I'm+Backend+Developer;&center=true&width=500&height=50">
 </p>
 
-- 🤝 I’m currently open to **work oportunity as Fullstack developer.**
+- 🤝 I’m currently open to **work opportunity as Fullstack developer.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
