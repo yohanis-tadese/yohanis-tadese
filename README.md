@@ -20,25 +20,24 @@
 
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <!-- Frontend -->
   <h4 align="left">Frontend:</h4>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,css,tailwind,html" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,css,tailwind,html,typescript" />
   </a>
 
   <!-- Backend -->
   <h4 align="left">Backend:</h4>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,mysql,postgres,mongodb" />
   </a>
 
   <!-- Tools -->
   <h4 align="left">Tools:</h4>
   <a href="">
-    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,aws,gcp,figma" />
   </a>
 </p>
 
