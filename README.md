@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 📫 May be see my portfolio **https://yohanis.vercel.app/**
+- 📫 May be see my portfolio **https://yohanis.vercel.app**
   
 - 📫 For Linkedin  **https://www.linkedin.com/in/yohanis-tadese**
   
