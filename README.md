@@ -23,13 +23,25 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
+  <!-- Frontend -->
+  <h4 align="left">Frontend:</h4>
   <a href="">
-        <img src="https://skillicons.dev/icons?i=react,bootstrap,css" />
-        <img src="https://skillicons.dev/icons?i=tailwind,figma,html,nodejs,mysql,mongodb,expressjs" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,css,tailwind,html" />
+  </a>
 
+  <!-- Backend -->
+  <h4 align="left">Backend:</h4>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mysql,mongodb" />
+  </a>
 
+  <!-- Tools -->
+  <h4 align="left">Tools:</h4>
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
+
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 | My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
