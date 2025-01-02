@@ -1,5 +1,5 @@
 
-<h1 align="center">Wellcome Hi 👋, I'm Yohanis Tadese</h1>
+<h1 align="center">Wellcome 👋 Hi, I'm Yohanis Tadese</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Full-Stack+Developer;I'm+Frontend+Developer;I'm+Backend+Developer;&center=true&width=500&height=50">
 </p>
